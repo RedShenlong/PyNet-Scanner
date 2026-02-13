@@ -8,6 +8,7 @@ Herramienta de reconocimiento de red desarrollada en Python para el estudio del 
 
 ## 📸 Demostración de Funcionamiento
 El escáner utiliza un sistema multihilo para procesar miles de peticiones simultáneas, mostrando hallazgos en tiempo real y un resumen final ordenado.
+
  <img src="img/test.png" width="400"> 
 
 ---
