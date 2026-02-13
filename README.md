@@ -25,7 +25,7 @@ El escáner utiliza un sistema multihilo para procesar miles de peticiones simul
 No requiere librerías externas, ya que utiliza exclusivamente la biblioteca estándar de Python.
 
 ```
-git clone [https://github.com/RedShenlong/PyNet-Scanner.git](https://github.com/RedShenlong/PyNet-Scanner.git)
+git clone https://github.com/RedShenlong/PyNet-Scanner.git
 cd PyNet-Scanner
 ```
 ### 2. Ejecutar la Herramienta
